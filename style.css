@@ -93,7 +93,7 @@ Mainvisual
 #mainvisual img {
   width: 100%;
   max-width: 1920px;
-  height: 600px;
+  height: 300px;
   object-fit: cover;
 }
 
