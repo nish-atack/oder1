@@ -1,6 +1,8 @@
+
 <style>
 
 
+/* その場で */
 .fadeIn{
 animation-name:fadeInAnime;
 animation-duration:1s;
@@ -17,6 +19,9 @@ opacity:0;
     opacity: 1;
   }
 }
+
+
+
 
 
 @charset "UTF-8";
