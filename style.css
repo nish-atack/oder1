@@ -1,8 +1,8 @@
 
+<style>
 
 
-
-
+/* その場で */
 .fadeIn{
 animation-name:fadeInAnime;
 animation-duration:1s;
@@ -75,6 +75,13 @@ li {
 h4{ 
  color: white;
 background-color:#008000;
+}
+
+
+h5{ 
+ color: white;
+background-color:#008000;
+ text-align: center;
 }
 
 
@@ -152,11 +159,11 @@ Bicycle
 }
 
 #bicycle img {
-  width: 420px;
-  height: 230px;
+  width: 340px;
+  height: 220px;
   border-radius: 1%;       
   margin-right: 10px;
-   margin-top: 30px;
+   margin-top: 10px;
 object-fit: cover;
 }
   
@@ -249,3 +256,9 @@ SP
 	right: 4px;
 	font-size: 20px;
 }
+
+
+
+
+
+ </style>
